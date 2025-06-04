@@ -1,0 +1,18 @@
+--- Gene ID: ENSG00000128245 ---
+Summary: The ENSG00000128245 gene, YWHAH, located on chromosome 22, encodes the 14-3-3 eta protein involved in signal transduction. This protein, also known as tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta, plays a key role in various cellular processes.
+
+--- Gene ID: ENSG00000166913 ---
+Summary: The gene ENSG00000166913, located on chromosome 20, encodes the protein YWHAB, also known as 14-3-3 beta/alpha, a protein-coding gene with diverse aliases. This gene is associated with a variety of functions, including protein kinase C inhibition and activation of monooxygenases, suggesting a crucial role in cell signaling and regulation.
+
+--- Gene ID: ENSG00000108953 ---
+Summary: YWHAE (ENSG00000108953) is a protein-coding gene located on chromosome 17, known to function as a 14-3-3 protein epsilon. This gene encodes for proteins involved in various cellular processes, including protein kinase C inhibition and monooxygenase activation.
+
+--- Gene ID: ENSG00000170027 ---
+Summary: The gene ENSG00000170027 encodes the protein YWHAG, a protein-coding gene located on chromosome 7 known for its role as a tyrosine/tryptophan monooxygenase activation protein and involvement in protein regulation. Its aliases and related functions implicate its connection to protein phosphatase regulation and potentially developmental epileptic encephalopathy.
+
+--- Gene ID: ENSG00000134308 ---
+Summary: The gene ENSG00000134308, located on chromosome 2, encodes the protein YWHAQ, which is a protein-coding gene involved in tyrosine and tryptophan monooxygenase activation. YWHAQ, also known as 14-3-3 theta, belongs to the 14-3-3 protein family and is associated with the HGNC identifier 12854.
+
+--- Gene ID: ENSG00000175793 ---
+Summary: The gene ENSG00000175793, located on chromosome 1 and encoding the SFN (Stratifin) protein, is a protein-coding gene involved in 14-3-3 protein signaling and serves as an epithelial cell marker.  SFN, also known as YWHAS, participates in cellular processes and is annotated with HGNC:10773.
+
