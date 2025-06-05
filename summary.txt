@@ -16,3 +16,36 @@ Summary: ENSG00000134308 encodes the protein-coding gene YWHAQ, located on chrom
 --- Gene ID: ENSG00000175793 ---
 Summary: The gene ENSG00000175793 (SFN) encodes for a protein-coding gene located on chromosome 1, specifically between positions 26863149 and 26864456. SFN, also known as stratifin or 14-3-3 sigma, is associated with epithelial cells and plays a role as an epithelial cell marker protein.
 
+--- Gene ID: ENSG00000128245 ---
+Summary: The protein-coding gene ENSG00000128245, located on chromosome 22, encodes the YWHAH protein, also known as 14-3-3 eta.  YWHAH functions as a tyrosine/tryptophan monooxygenase activation protein and belongs to the 14-3-3 protein family.
+
+--- Gene ID: ENSG00000166913 ---
+Summary: The gene ENSG00000166913, located on chromosome 20, encodes the protein YWHAB, a protein-coding gene also known as 14-3-3 protein beta/alpha. This gene, associated with HGNC:12849, has several aliases and encodes a protein involved in signal transduction pathways via its role as a protein kinase C inhibitor and tyrosine/tryptophan monooxygenase activation protein.
+
+--- Gene ID: ENSG00000108953 ---
+Summary: The YWHAE gene (ENSG00000108953), located on chromosome 17, encodes the 14-3-3 epsilon protein, a key regulator involved in diverse cellular processes. This protein, also known by various aliases, acts as a protein kinase C inhibitor and a tyrosine/tryptophan monooxygenase activation protein.
+
+--- Gene ID: ENSG00000170027 ---
+Summary: The gene ENSG00000170027, located on chromosome 7, encodes the protein YWHAG, also known as 14-3-3 gamma, which functions in protein kinase C inhibition and protein phosphatase regulation.  This protein-coding gene is associated with the disorders EIEE56 and DEE56, highlighting its potential importance in neurological development and function.
+
+--- Gene ID: ENSG00000134308 ---
+Summary: The gene ENSG00000134308, located on chromosome 2, encodes the YWHAQ protein, also known as 14-3-3 theta, involved in tyrosine/tryptophan monooxygenase activation.  This protein-coding gene has numerous aliases related to its function as a 14-3-3 protein and its role in cellular signaling.
+
+--- Gene ID: ENSG00000175793 ---
+Summary: The SFN gene (ENSG00000175793), located on chromosome 1, encodes the protein Stratifin (14-3-3 sigma), known as an epithelial cell marker. This protein-coding gene (YWHAS) functions in cell cycle regulation and apoptosis.
+
+--- Gene ID: ENSG00000128245 ---
+Summary: The gene ENSG00000128245, encoding the protein YWHAH, is located on chromosome 22 and spans from position 31944522 to 31957603.  YWHAH, also known as 14-3-3 eta, functions as a tyrosine/tryptophan monooxygenase activation protein.
+
+--- Gene ID: ENSG00000166913 ---
+Summary: The ENSG00000166913 gene, located on chromosome 20, encodes the protein-coding gene YWHAB, also known as 14-3-3 beta/alpha. YWHAB is a protein kinase C inhibitor and participates in tyrosine/tryptophan monooxygenase activation, with various synonyms reflecting its diverse functions.
+
+--- Gene ID: ENSG00000108953 ---
+Summary: The gene ENSG00000108953 (YWHAE), located on chromosome 17, encodes the 14-3-3 epsilon protein, a key regulator involved in diverse signaling pathways. This protein, also known by multiple aliases, participates in processes ranging from protein kinase inhibition to mitochondrial import stimulation.
+
+--- Gene ID: ENSG00000170027 ---
+Summary: The YWHAG gene (ENSG00000170027), located on chromosome 7, encodes the 14-3-3 gamma protein involved in protein kinase C inhibition and protein phosphatase regulation. This protein, also known as tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma, is associated with developmental and epileptic encephalopathy 56 (DEE56/EIEE56).
+
+--- Gene ID: ENSG00000134308 ---
+Summary: The gene ENSG00000134308, located on chromosome 2, encodes the protein YWHAQ, a 14-3-3 protein involved in signal transduction.  This protein, also known by multiple synonyms, functions as a tyrosine/tryptophan monooxygenase activation protein and is linked to HGNC:12854.
+

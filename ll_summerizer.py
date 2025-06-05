@@ -11,7 +11,9 @@ if not api_key:
 
 genai.configure(api_key=api_key)
 
-tsx_path = "summary.txt"
+# Define both file paths
+summary_txt_path = "summary.txt"
+summary_metta_path = "summary.metta"
 
 # Gene summarization function
 def gene_summarizer(id, text):
@@ -20,9 +22,14 @@ def gene_summarizer(id, text):
 
     summarized_txt = response.text.strip()
     
-    with open(tsx_path, 'a') as f:
-        f.write(f'--- Gene ID: {id} ---\n')
-        f.write(f'Summary: {summarized_txt}\n\n')
+    # Write to summary.txt
+    with open(summary_txt_path, 'a') as f_txt:
+        f_txt.write(f'--- Gene ID: {id} ---\n')
+        f_txt.write(f'Summary: {summarized_txt}\n\n')
+
+    # Write to summary.metta
+    with open(summary_metta_path, 'a') as f_metta:
+        f_metta.write(f'(Summary (gene {id}) "{ summarized_txt}" )\n\n')
 
     return [S(summarized_txt)]
 
