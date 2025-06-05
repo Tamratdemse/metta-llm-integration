@@ -1,18 +1,18 @@
 --- Gene ID: ENSG00000128245 ---
-Summary: The ENSG00000128245 gene, YWHAH, located on chromosome 22, encodes the 14-3-3 eta protein involved in signal transduction. This protein, also known as tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta, plays a key role in various cellular processes.
+Summary: The gene ENSG00000128245, named YWHAH, located on chromosome 22 (31944522-31957603), encodes a protein-coding gene and has several aliases including 14-3-3 eta. It belongs to the 14-3-3 protein family, involved in diverse cellular processes as a phosphoserine/threonine-binding protein.
 
 --- Gene ID: ENSG00000166913 ---
-Summary: The gene ENSG00000166913, located on chromosome 20, encodes the protein YWHAB, also known as 14-3-3 beta/alpha, a protein-coding gene with diverse aliases. This gene is associated with a variety of functions, including protein kinase C inhibition and activation of monooxygenases, suggesting a crucial role in cell signaling and regulation.
+Summary: The ENSG00000166913 gene, YWHAB, located on chromosome 20, encodes a protein coding gene known as tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta, involved in a variety of cellular processes. This gene, also known by various aliases, including 14-3-3 protein beta/alpha, suggests it is part of the 14-3-3 protein family, which plays a role in signal transduction and protein regulation.
 
 --- Gene ID: ENSG00000108953 ---
-Summary: YWHAE (ENSG00000108953) is a protein-coding gene located on chromosome 17, known to function as a 14-3-3 protein epsilon. This gene encodes for proteins involved in various cellular processes, including protein kinase C inhibition and monooxygenase activation.
+Summary: The YWHAE gene (ENSG00000108953), located on chromosome 17, encodes a protein-coding gene known as tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon, or 14-3-3 epsilon. This protein is involved in various cellular processes, as evidenced by its numerous aliases including protein kinase C inhibitor protein-1 and mitochondrial import stimulation factor L subunit.
 
 --- Gene ID: ENSG00000170027 ---
-Summary: The gene ENSG00000170027 encodes the protein YWHAG, a protein-coding gene located on chromosome 7 known for its role as a tyrosine/tryptophan monooxygenase activation protein and involvement in protein regulation. Its aliases and related functions implicate its connection to protein phosphatase regulation and potentially developmental epileptic encephalopathy.
+Summary: The YWHAG gene (ENSG00000170027), located on chromosome 7, encodes the 14-3-3gamma protein, a key regulator involved in signal transduction and protein interactions. This protein has multiple aliases, including PPP1R170 and KCIP-1, and is implicated in developmental and epileptic encephalopathy 56 (DEE56/EIEE56).
 
 --- Gene ID: ENSG00000134308 ---
-Summary: The gene ENSG00000134308, located on chromosome 2, encodes the protein YWHAQ, which is a protein-coding gene involved in tyrosine and tryptophan monooxygenase activation. YWHAQ, also known as 14-3-3 theta, belongs to the 14-3-3 protein family and is associated with the HGNC identifier 12854.
+Summary: ENSG00000134308 encodes the protein-coding gene YWHAQ, located on chromosome 2, which is also known as 14-3-3 theta and involved in tyrosine/tryptophan monooxygenase activation. This gene produces a protein involved in a variety of protein-protein interactions and cell signaling pathways.
 
 --- Gene ID: ENSG00000175793 ---
-Summary: The gene ENSG00000175793, located on chromosome 1 and encoding the SFN (Stratifin) protein, is a protein-coding gene involved in 14-3-3 protein signaling and serves as an epithelial cell marker.  SFN, also known as YWHAS, participates in cellular processes and is annotated with HGNC:10773.
+Summary: The gene ENSG00000175793 (SFN) encodes for a protein-coding gene located on chromosome 1, specifically between positions 26863149 and 26864456. SFN, also known as stratifin or 14-3-3 sigma, is associated with epithelial cells and plays a role as an epithelial cell marker protein.
 

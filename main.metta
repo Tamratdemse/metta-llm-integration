@@ -1,6 +1,6 @@
 !(register-module! ../metta_llm_integration)
 !(import! &self metta_llm_integration:data)
-!(import! &self main)
+!(import! &self ll_summerizer)
 
 
 
